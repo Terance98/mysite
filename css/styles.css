@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  text-align: center;
+  color : #40514E;
+}
+
+span {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: 'Grand Hotel', cursive;
+  font-size: 5.625rem;
+  margin : 50px auto 0 auto;
+  color : #66BFBF;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color : #66BFBF;
+
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color : #11999E;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+  width : 3%;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #eaf6f6;
+  margin: 100px auto 100px auto;
+}
+
+#copywrite-text{
+  color: white;
+  font-size: 0.75rem;
+}
+
+
+#weight{
+    font-weight: normal;
+    margin-top : 0;
+    line-height: 2;
+}
+#circled{
+    border-radius : 100%;
+}
+
+#final-statement{
+  margin: 50px auto;
+  width : 40%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.footer-link{
+  color : #11999E;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  margin : auto 20px;
+
+}
+
+.skill-row{
+  display: inline-block;
+  width: 50%;
+  margin : 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.programming-img{
+  width: 25%;
+  float : left;
+  margin-right: 30px;
+}
+
+.teaching-img{
+  width: 25%;
+  float : right;
+  margin-left: 30px;
+}
+
+.dancing-img{
+  width: 25%;
+  float : left;
+  margin-right: 30px;
+}
+
+.profile{
+  width: 50%;
+  margin : 0 auto 0 auto;
+  line-height: 2;
+}
+
+.dp{
+  margin: 100px auto auto 0 ;
+  border-radius: 100%;
+  width : 30%;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding-top : 50px;
+  padding-bottom: 50px;
+  margin : 100px auto 0 auto;
+}
+
+
+.butn {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 23px;
+  background: #66bfbf;
+  padding: 15px 20px 15px 20px;
+  text-decoration: none;
+  /* margin : 50px auto 50px auto; */
+}
+
+.butn:hover {
+  background: #11999E;
+  text-decoration: none;
+}
+
+/*
+font-family: 'Pacifico', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Dancing Script', cursive;
+
+font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Grand Hotel', cursive;
+*/

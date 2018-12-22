@@ -93,6 +93,9 @@ hr{
   margin : auto 20px;
 
 }
+.footer-link:hover{
+  color : #eaf6f6;
+}
 
 .skill-row{
   display: inline-block;

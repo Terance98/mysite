@@ -41,7 +41,7 @@ hr{
 
 #copywrite-text{
   color: white;
-  font-size: 0.75rem;
+  font-size: 10px;
 }
 
 
@@ -133,8 +133,8 @@ hr{
 
 
 .butn {
-  -webkit-border-radius: 15;
-  -moz-border-radius: 15;
+  /* -webkit-border-radius: 15; */
+  /* -moz-border-radius: 15; */
   border-radius: 15px;
   font-family: Courier New;
   color: #ffffff;

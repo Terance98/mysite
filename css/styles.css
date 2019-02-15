@@ -163,6 +163,44 @@ hr{
   text-decoration: none;
 }
 
+@media screen and (max-width: 480px) {
+  .middle-container{
+    width: 95%;
+  }
+  .skill-row{
+    width: 90%;
+  }
+  .profile{
+    width: 90%;
+  }
+  #prefinal-statement{
+    width: 80%;
+  }
+  #final-statement{
+    width: 80%;
+  }
+  .mountain{
+    width: 100%;
+  }
+  .bottom-cloud {
+    position: absolute;
+    left: 60%;
+    bottom: 30%;
+}
+  .top-cloud {
+    position: absolute;
+    top: 10%;
+    right: 60%;
+}
+  .butn{
+    font-size: 16px;
+    padding: 10px 15px;
+  }
+  #copywrite-text{
+    width: 80%;
+  }
+}
+
 /*
 font-family: 'Pacifico', cursive;
 font-family: 'Merriweather', serif;

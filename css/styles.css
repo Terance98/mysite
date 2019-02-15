@@ -196,6 +196,9 @@ hr{
     font-size: 16px;
     padding: 10px 15px;
   }
+  .dp{
+    width: 60%;
+  }
   #copywrite-text{
     width: 80%;
   }
